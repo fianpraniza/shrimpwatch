@@ -79,9 +79,6 @@ psql -h localhost -U your_username -d shrimpwatch_db
 ```bash
 # Pastikan file best.pt ada
 ls -la best.pt
-
-# Download model jika belum ada
-# Lihat MODEL_SETUP.md untuk panduan lengkap
 ```
 
 ## 📋 Requirements Minimal

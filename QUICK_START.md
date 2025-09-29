@@ -4,7 +4,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/[username]/shrimpwatch.git
+git clone https://github.com/fianpraniza/shrimpwatch.git
 cd shrimpwatch
 ```
 
@@ -40,14 +40,7 @@ cp env.example .env
 python database_setup.py
 ```
 
-### 5. Download Model (jika belum ada)
-```bash
-# Download model AI (ganti URL dengan link model Anda)
-# wget https://your-model-url.com/best.pt
-# Atau copy model file ke direktori ini
-```
-
-### 6. Jalankan Aplikasi
+### 5. Jalankan Aplikasi
 ```bash
 # Menggunakan script runner
 python run.py
@@ -56,7 +49,7 @@ python run.py
 streamlit run app.py
 ```
 
-### 7. Akses Aplikasi
+### 6. Akses Aplikasi
 Buka browser: `http://localhost:8501`
 
 ## 🔧 Troubleshooting Cepat
@@ -132,15 +125,11 @@ streamlit run app.py --server.port 8502
 ## 📞 Support
 
 - 📧 Email: fianpraniza@gmail.com
-- 💬 WhatsApp: [Contact](http://wa.me/+6281259676839)
 - 🐛 Issues: [GitHub Issues](https://github.com/[username]/shrimpwatch/issues)
 
 ## 📚 Dokumentasi Lengkap
 
 - [📋 Installation Guide](INSTALL.md) - Panduan instalasi detail
-- [🤖 Model Setup](MODEL_SETUP.md) - Setup model AI
-- [🔒 Security Guide](SECURITY.md) - Keamanan aplikasi
-- [🚀 GitHub Setup](github_setup.md) - Setup repository
 
 ---
 

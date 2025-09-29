@@ -177,33 +177,23 @@ shrimpwatch/
 ├── requirements.txt       # Dependencies
 ├── .env                   # Environment variables (buat sendiri)
 ├── .gitignore            # Git ignore rules
-├── best.pt               # AI model (download sendiri)
+├── best.pt               # AI model
 ├── asset/                # Static assets
-│   ├── shrimpwatch.png
-│   └── results.png
+│   └── shrimpwatch.png
 └── README.md             # Documentation
 ```
 
-## 🔒 Keamanan
-
-### File yang TIDAK boleh di-commit:
-- `.env` (berisi database credentials)
-- `*.pt` (jika mengandung data proprietary)
-- `__pycache__/`
-- Log files
-
 ### Best Practices:
 1. Selalu gunakan virtual environment
-2. Jangan commit credentials ke Git
 3. Gunakan password yang kuat untuk database
 4. Backup database secara berkala
 
 ## 📞 Support
 
 Jika mengalami masalah:
-1. Periksa [Issues](https://github.com/[username]/shrimpwatch/issues)
+1. Periksa [Issues](https://github.com/fianpraniza/shrimpwatch/issues)
 2. Buat issue baru dengan detail error
-3. Hubungi developer: [email]
+3. Hubungi developer: [email](fianpraniza@gmail.com)
 
 ## 📄 License
 

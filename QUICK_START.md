@@ -125,7 +125,7 @@ streamlit run app.py --server.port 8502
 ## 📞 Support
 
 - 📧 Email: fianpraniza@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/[username]/shrimpwatch/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/fianpraniza/shrimpwatch/issues)
 
 ## 📚 Dokumentasi Lengkap
 
